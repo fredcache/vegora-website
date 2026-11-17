@@ -11,7 +11,7 @@ This is a static HTML website. It does not require a framework, package installa
 3. Connect GitHub and choose **fredcache/vegora-website**.
 4. Set the production branch to **main**.
 5. Leave **Build command** empty.
-6. Set **Build output directory** to `/` (repository root).
+6. Set **Build output directory** to `.` (repository root).
 7. Leave the root directory at `/` and select **Save and Deploy**.
 
 Cloudflare Pages will automatically redeploy when changes are pushed to the `main` branch.
